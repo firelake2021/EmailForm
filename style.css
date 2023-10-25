@@ -1,0 +1,13 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+}
+label {
+  display: block;
+}
+textarea {
+  display: block;
+}
